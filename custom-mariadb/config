@@ -1,2 +1,3 @@
 [mariadb]
 innodb-log-file-size=256MB
+max_allowed_packet=30M
