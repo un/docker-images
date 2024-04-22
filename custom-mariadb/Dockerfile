@@ -1,2 +1,2 @@
 FROM mariadb:latest
-COPY config /etc/mysql/conf.d
+COPY config.cnf /etc/mysql/mariadb.conf.d/
